@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-Works:
-- HP制作：[宮崎大学工学部工学科 情報通信工学プログラム (旧ホームページ)](https://www.miyazaki-u.ac.jp/ict/past2024/)
+### Works:
 
-![宮崎大学工学部工学科 情報通信工学プログラム - スクリーンショット](img/miyadai-ict-hp.webp)
+<div><a alt="宮崎大学工学部工学科 情報通信工学プログラム (旧ホームページ)" target="_blank" rel="noopener noreferrer" href="https://www.miyazaki-u.ac.jp/ict/past2024/"><img src="img/miyadai-ict-hp.webp" /></a></div>
 
-- wip
   
 
 <!--
